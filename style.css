@@ -1,12 +1,11 @@
-h1 {
-    text-align: center;
+#main{
+  text-align: center;
+   
 }
-#image {
-   max-width: 40%;
-    display: flex;
-    padding-left: 30%;
-    padding-right: 30%;
-  
+img{
+    width: 40%;
+    
 }
+ 
 
 
